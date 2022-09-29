@@ -82,3 +82,29 @@
         right: 100%;
     }
 }
+
+ul{
+    margin: auto;
+}
+
+.infos{
+    background: linear-gradient(#9ce1fc, #cce3ec);
+    position: absolute;
+    height: 439px;
+    width: 100%;
+    padding: 10px;
+    margin: auto;
+}
+
+.tutorial{
+    background-color: white;
+    font-size: 30px;
+    width: 99%;
+    height: max-content;
+    position: absolute;
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    
+}
+

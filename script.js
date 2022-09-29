@@ -45,7 +45,7 @@ function jogar() {
 document.onkeydown = teclado;
 
 function teclado(e) {
-    if (e.keyCode == 38) {
+    if (e.keyCode == 13) {
         jogar();
     }
 }
